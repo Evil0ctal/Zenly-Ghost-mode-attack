@@ -1,5 +1,7 @@
 # Zenly-Ghost-mode-attack
 
+Language/language: \[[English](https://github.com/Evil0ctal/Zenly-Ghost-mode-attack/blob/main/README.en.md)]  \[[traditional Chinese](https://github.com/Evil0ctal/Zenly-Ghost-mode-attack/blob/main/README.zh-TW.md)]
+
 ## foreword
 
 This repository enumerates an exhaustive way to obtain the precise location of the Zenly APP ghost mode.
