@@ -1,5 +1,7 @@
 # Zenly-Ghost-mode-attack
 
+Language/语言:  [[English](https://github.com/Evil0ctal/Zenly-Ghost-mode-attack/blob/main/README.en.md)]  [[繁体中文](https://github.com/Evil0ctal/Zenly-Ghost-mode-attack/blob/main/README.zh-TW.md)]
+
 ## 前言
 
 本仓库列举了一种通过穷举实现对Zenly APP幽灵模式的精确位置获取方法。
